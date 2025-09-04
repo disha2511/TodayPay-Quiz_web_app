@@ -1,0 +1,608 @@
+{
+  "easy": [
+    {
+      "question": "What is the capital of France?",
+      "correct": "Paris",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Madrid"
+      ]
+    },
+    {
+      "question": "Which company developed React?",
+      "correct": "Facebook",
+      "options": [
+        "Google",
+        "Facebook",
+        "Microsoft",
+        "Apple"
+      ]
+    },
+    {
+      "question": "2 + 2 = ?",
+      "correct": "4",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "correct": "Mars",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ]
+    },
+    {
+      "question": "What color is the sky on a clear day?",
+      "correct": "Blue",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ]
+    },
+    {
+      "question": "HTML stands for?",
+      "correct": "HyperText Markup Language",
+      "options": [
+        "HighText Machine Language",
+        "HyperText Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "None"
+      ]
+    },
+    {
+      "question": "Which animal is known as man's best friend?",
+      "correct": "Dog",
+      "options": [
+        "Cat",
+        "Dog",
+        "Horse",
+        "Parrot"
+      ]
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "correct": "0\u00b0C",
+      "options": [
+        "0\u00b0C",
+        "100\u00b0C",
+        "50\u00b0C",
+        "25\u00b0C"
+      ]
+    },
+    {
+      "question": "Which device is used to make calls?",
+      "correct": "Phone",
+      "options": [
+        "TV",
+        "Phone",
+        "Fridge",
+        "Radio"
+      ]
+    },
+    {
+      "question": "CSS is used for?",
+      "correct": "Styling web pages",
+      "options": [
+        "Styling web pages",
+        "Programming",
+        "Database",
+        "Networking"
+      ]
+    },
+    {
+      "question": "Which gas do humans need to breathe?",
+      "correct": "Oxygen",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Helium"
+      ]
+    },
+    {
+      "question": "Sun rises in the?",
+      "correct": "East",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ]
+    },
+    {
+      "question": "What is 10 \u00f7 2?",
+      "correct": "5",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "10"
+      ]
+    },
+    {
+      "question": "Which continent is India in?",
+      "correct": "Asia",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "Australia"
+      ]
+    },
+    {
+      "question": "Which shape has 3 sides?",
+      "correct": "Triangle",
+      "options": [
+        "Triangle",
+        "Circle",
+        "Square",
+        "Rectangle"
+      ]
+    },
+    {
+      "question": "Which currency is used in USA?",
+      "correct": "Dollar",
+      "options": [
+        "Euro",
+        "Yen",
+        "Dollar",
+        "Rupee"
+      ]
+    },
+    {
+      "question": "Which sport is played at Wimbledon?",
+      "correct": "Tennis",
+      "options": [
+        "Cricket",
+        "Football",
+        "Tennis",
+        "Basketball"
+      ]
+    },
+    {
+      "question": "Which day comes after Friday?",
+      "correct": "Saturday",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Monday",
+        "Thursday"
+      ]
+    },
+    {
+      "question": "Which fruit keeps the doctor away?",
+      "correct": "Apple",
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange",
+        "Mango"
+      ]
+    },
+    {
+      "question": "How many letters are there in English alphabet?",
+      "correct": "26",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "question": "In JavaScript, which symbol is used for strict equality?",
+      "correct": "===",
+      "options": [
+        "=",
+        "==",
+        "===",
+        "!="
+      ]
+    },
+    {
+      "question": "Which year was React first released?",
+      "correct": "2013",
+      "options": [
+        "2010",
+        "2011",
+        "2013",
+        "2015"
+      ]
+    },
+    {
+      "question": "What does SQL stand for?",
+      "correct": "Structured Query Language",
+      "options": [
+        "Strong Question Language",
+        "Structured Query Language",
+        "Statement Question Language",
+        "Sequential Query Language"
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "correct": "Leonardo da Vinci",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ]
+    },
+    {
+      "question": "Which organ in the human body purifies blood?",
+      "correct": "Kidneys",
+      "options": [
+        "Liver",
+        "Kidneys",
+        "Heart",
+        "Lungs"
+      ]
+    },
+    {
+      "question": "What is the hardest natural substance?",
+      "correct": "Diamond",
+      "options": [
+        "Gold",
+        "Diamond",
+        "Iron",
+        "Quartz"
+      ]
+    },
+    {
+      "question": "Which language is primarily used for Android app development?",
+      "correct": "Java",
+      "options": [
+        "C++",
+        "Python",
+        "Java",
+        "Swift"
+      ]
+    },
+    {
+      "question": "Who is the CEO of Tesla?",
+      "correct": "Elon Musk",
+      "options": [
+        "Jeff Bezos",
+        "Elon Musk",
+        "Sundar Pichai",
+        "Tim Cook"
+      ]
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "correct": "Nitrogen",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ]
+    },
+    {
+      "question": "Which part of the computer is considered the brain?",
+      "correct": "CPU",
+      "options": [
+        "CPU",
+        "RAM",
+        "GPU",
+        "Motherboard"
+      ]
+    },
+    {
+      "question": "Which blood type is universal donor?",
+      "correct": "O-",
+      "options": [
+        "A+",
+        "B+",
+        "AB+",
+        "O-"
+      ]
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "correct": "William Shakespeare",
+      "options": [
+        "Charles Dickens",
+        "Mark Twain",
+        "William Shakespeare",
+        "Jane Austen"
+      ]
+    },
+    {
+      "question": "Which is the largest desert in the world?",
+      "correct": "Sahara",
+      "options": [
+        "Gobi",
+        "Thar",
+        "Sahara",
+        "Kalahari"
+      ]
+    },
+    {
+      "question": "How many planets are in the Solar System?",
+      "correct": "8",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "correct": "100\u00b0C",
+      "options": [
+        "90\u00b0C",
+        "100\u00b0C",
+        "110\u00b0C",
+        "120\u00b0C"
+      ]
+    },
+    {
+      "question": "Which chemical element has the symbol 'Au'?",
+      "correct": "Gold",
+      "options": [
+        "Silver",
+        "Gold",
+        "Aluminium",
+        "Copper"
+      ]
+    },
+    {
+      "question": "In React, which hook is used for state?",
+      "correct": "useState",
+      "options": [
+        "useEffect",
+        "useState",
+        "useRef",
+        "useContext"
+      ]
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "correct": "Tokyo",
+      "options": [
+        "Kyoto",
+        "Tokyo",
+        "Osaka",
+        "Hiroshima"
+      ]
+    },
+    {
+      "question": "How many bits are in a byte?",
+      "correct": "8",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "question": "Which company created the iPhone?",
+      "correct": "Apple",
+      "options": [
+        "Samsung",
+        "Apple",
+        "Google",
+        "Nokia"
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is the time complexity of quicksort in the worst case?",
+      "correct": "O(n^2)",
+      "options": [
+        "O(n log n)",
+        "O(n)",
+        "O(n^2)",
+        "O(log n)"
+      ]
+    },
+    {
+      "question": "Who is considered the father of computer science?",
+      "correct": "Alan Turing",
+      "options": [
+        "Bill Gates",
+        "Alan Turing",
+        "Charles Babbage",
+        "Steve Jobs"
+      ]
+    },
+    {
+      "question": "In which year was the first iPhone released?",
+      "correct": "2007",
+      "options": [
+        "2005",
+        "2007",
+        "2009",
+        "2010"
+      ]
+    },
+    {
+      "question": "What is the main language used for iOS app development?",
+      "correct": "Swift",
+      "options": [
+        "Java",
+        "Swift",
+        "Objective-C",
+        "Kotlin"
+      ]
+    },
+    {
+      "question": "What is the derivative of sin(x)?",
+      "correct": "cos(x)",
+      "options": [
+        "cos(x)",
+        "-cos(x)",
+        "-sin(x)",
+        "tan(x)"
+      ]
+    },
+    {
+      "question": "What is the integral of 1/x?",
+      "correct": "ln|x|",
+      "options": [
+        "1/x^2",
+        "ln|x|",
+        "e^x",
+        "x^2/2"
+      ]
+    },
+    {
+      "question": "In machine learning, what does CNN stand for?",
+      "correct": "Convolutional Neural Network",
+      "options": [
+        "Central Neural Node",
+        "Convolutional Neural Network",
+        "Complex Neural Net",
+        "Conditional Numeric Network"
+      ]
+    },
+    {
+      "question": "Which year was JavaScript created?",
+      "correct": "1995",
+      "options": [
+        "1991",
+        "1993",
+        "1995",
+        "1998"
+      ]
+    },
+    {
+      "question": "Which company acquired GitHub?",
+      "correct": "Microsoft",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "IBM"
+      ]
+    },
+    {
+      "question": "What is the full form of HTTP?",
+      "correct": "HyperText Transfer Protocol",
+      "options": [
+        "HighText Transfer Protocol",
+        "HyperText Transfer Protocol",
+        "HyperTool Transfer Protocol",
+        "Hyper Transfer Text Protocol"
+      ]
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "correct": "2",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "correct": "Albert Einstein",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ]
+    },
+    {
+      "question": "What is the square root of 256?",
+      "correct": "16",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ]
+    },
+    {
+      "question": "What does 'CSS' stand for?",
+      "correct": "Cascading Style Sheets",
+      "options": [
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets"
+      ]
+    },
+    {
+      "question": "Which data structure uses FIFO?",
+      "correct": "Queue",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "Graph"
+      ]
+    },
+    {
+      "question": "Which data structure uses LIFO?",
+      "correct": "Stack",
+      "options": [
+        "Stack",
+        "Queue",
+        "Heap",
+        "Linked List"
+      ]
+    },
+    {
+      "question": "In Big-O notation, what does O(1) mean?",
+      "correct": "Constant Time",
+      "options": [
+        "Constant Time",
+        "Linear Time",
+        "Logarithmic Time",
+        "Quadratic Time"
+      ]
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "correct": "Mercury",
+      "options": [
+        "Mercury",
+        "Gold",
+        "Silver",
+        "Iron"
+      ]
+    },
+    {
+      "question": "Which scientist proposed the three laws of motion?",
+      "correct": "Isaac Newton",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ]
+    },
+    {
+      "question": "Which programming language is known as the mother of all languages?",
+      "correct": "C",
+      "options": [
+        "C",
+        "Java",
+        "Python",
+        "Assembly"
+      ]
+    }
+  ]
+}
